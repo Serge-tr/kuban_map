@@ -1,3 +1,3 @@
-Это интерактивная карта для сайта.
+﻿This is interactive map.
 
-Технологии: html/css, js, raphael
+technologies: html/css, js, raphael
